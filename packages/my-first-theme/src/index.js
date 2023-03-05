@@ -1,6 +1,6 @@
 // File: /packages/my-first-theme/src/index.js
 
-import Root from "./components"
+import Root from "./components/Root"
 import link from "@frontity/html2react/processors/link";
 const myFirstTheme = {
   name: "my-first-theme",
